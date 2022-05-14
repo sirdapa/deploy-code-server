@@ -28,4 +28,5 @@ A collection of one-click buttons and scripts for deploying [code-server](https:
   - Most app platforms do not support running docker or virtual volume mounts in the container.
   - Storage may not be persistent. You may have to use [rclone](https://rclone.org/) to store your filesystem on a cloud service. Documented below:
   - [📄 Docs for code-server-deploy-container](deploy-container/)
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/sirdapa/pipeline-getting-started)
+
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/sirdapa/deploy-code-server)
